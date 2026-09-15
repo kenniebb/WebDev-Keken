@@ -1,0 +1,23 @@
+.title{
+    font-weight: bold;
+    font-family:initial;
+    font-size:larger;
+    color:rgb(255, 135, 199);
+    text-align:left;
+    background-color:rgb(254, 255, 216);
+    box-shadow: 3px 5px 10px rgb(246, 199, 218)  
+
+    
+}
+p{
+    font-family:monospace;
+    color:palevioletred;
+    text-align:justify;
+    font-style:italic;
+    background-color:rgb(242, 242, 228)
+}
+
+.section{
+    margin-bottom: 20px;
+    box-shadow: 3px 5px 10px rgb(255, 174, 221)
+}
